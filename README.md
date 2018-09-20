@@ -1,5 +1,2 @@
-# the_pantry
-# the_pantry
-# the_pantry
-# the_pantry
-# the_pantry
+GitHub CHeckpoint Assignment
+GitHub Checkpoint Assignment
